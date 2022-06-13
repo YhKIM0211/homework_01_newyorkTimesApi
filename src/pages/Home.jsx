@@ -1,12 +1,12 @@
 import React from "react";
 
-function Clip () {
+function Home () {
 
   return (
     <>
-      <h1>Clip</h1>
+      <h1>Home</h1>
     </>
   );
 };
 
-export default Clip;
+export default Home;
