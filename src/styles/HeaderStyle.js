@@ -13,7 +13,7 @@ flex-direction : column;
 align-items: center;
 
   h1 { diplay: block;
-       margin : 10 auto;
+    margin : 10 auto;
   }
   nav {
     width: 100vw;
