@@ -61,3 +61,9 @@
 
 ### Project Team 규칙
 
+- Commit Messag 규칙 준수(feat, fix, docs...)
+- 하루의 할 일 Issue 등록 후 작업 진행
+- EsLint, Prettier 사용하기
+- 기능 위에 주석으로 작성자, 함수 기능 설명 작성
+- 함수 앞 func 키워드 사용
+- PR 요청 시 팀장은 자다가 일어나서 받기..(Main으로 보내면 팀장으로 변경 ...)
