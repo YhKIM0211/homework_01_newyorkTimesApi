@@ -1,5 +1,7 @@
 # News-Page App (Team4)
 
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/CRA-09D3AC?style=for-the-badge&logo=Create React App&logoColor=white">
+
 ## 기획목표
 - **NewYork Times API를 이용한 실시간 반응형 Web Page 만들기**
 
