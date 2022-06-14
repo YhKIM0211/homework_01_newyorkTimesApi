@@ -20,6 +20,7 @@ export const useSlice = createSlice({
                 ...state,
                 newsList: action.payload,
             };
+            
         },
         clipNews: (state, action) => {
             return {
@@ -36,4 +37,5 @@ export const useSlice = createSlice({
     },
 });
 
+export const { getNews,clipNews,removeClopNews } = useSlice.actions; //작성한 리듀서의 로직을 액션으로 내보냄
 export default useSlice.reducer;
